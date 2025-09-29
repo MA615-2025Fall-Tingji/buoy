@@ -1,0 +1,85 @@
+---
+title: "Buoy Data"
+author: "Vajinder Kaur"
+format:
+  revealjs:
+    slide-level: 2
+    controls: true
+    progress: true
+    theme: night
+    highlight-style: dracula
+    transition: slide
+    background-transition: fade
+    code-overflow: wrap
+    center: false
+    slide-number: true
+    navigation-mode: linear
+    css: scroll-slides.css
+---
+
+## NOAA Buoy Data Website
+
+The **National Data Buoy Center (NDBC)** provides real-time and historical buoy data for oceans and lakes, including:
+
+- Wave height and period  
+- Wind speed and direction  
+- Air and water temperature  
+- Barometric pressure  
+
+Explore the website here: [NOAA NDBC Buoy Data](https://www.ndbc.noaa.gov/)
+
+---
+
+## Step 1: Homepage {.no-scroll}
+
+![Station Info Page](images/ndbc_homepage.png)
+
+
+*This is the NOAA Buoy Center homepage where you can access data for all stations.*
+
+---
+
+## Step 3: Historical Data {.no-scroll}
+
+![Historical Data Page](images/ndbc_historical_data.png)
+
+*Click on “Historical Data” to access archived data files for different years.*
+
+---
+
+## Step 2: Station Information Page {.no-scroll}
+
+![Station Info Page](images/ndbc_station_info.png)
+
+*Here, we are using station **44013** as an example. Enter the ID in the search bar to view specific buoy data.*
+
+*This page shows the current readings, location, and other basic info about the buoy.*
+
+*Click on "Data Descriptions" next to "Historical Data" to view more information about the variabless being used in the dataset*
+
+![Historical Data Page](images/ndbc_data_descriptions.png)
+
+---
+
+## Step 4: Example Year Data {.no-scroll}
+
+![Historical Data Page](images/ndbc_historical_year.png)
+
+*Download data for a specific year to explore measurements like wave height, wind speed, and temperature.*
+
+---
+
+## Optional Exploration
+
+- Download sample data files to see the structure.  
+- Think about **visualizations or plots** you could make from the data.  
+
+---
+
+## Goal
+
+By the end of this exercise, you should:
+
+- Understand the types of measurements buoy data provide  
+- Know how to navigate the NOAA buoy website  
+- Start thinking about **questions or patterns** to study with this data
